@@ -1,5 +1,6 @@
 # Q1: Which Ports are Open
 I used the following command to find the open ports:
+
 """
 nmap 172.20.13.127
 """
@@ -9,13 +10,16 @@ nmap 172.20.13.127
 
 
 # Q2: What is the running service name?
-After doing the nmap scanning for the first question. I was able to find the answer "telnet" for this question.
+After doing the nmap scanning for the first question. 
+
+I was able to find the answer "telnet" for this question.
 
 <img width="519" height="118" alt="image" src="https://github.com/user-attachments/assets/96de1696-0fee-440f-9455-537b67bccd4a" />
 
 
 # Q3: What is the hostname?
 To find the hostname. I tried to connect the machine using the following command:
+
 """
 telnet 172.20.13.127
 """
