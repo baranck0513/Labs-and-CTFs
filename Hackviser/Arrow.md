@@ -1,9 +1,7 @@
 # Q1: Which Ports are Open
 I used the following command to find the open ports:
 
-"""
 nmap 172.20.13.127
-"""
 
 
 <img width="519" height="118" alt="image" src="https://github.com/user-attachments/assets/6f700c5f-25bc-40e4-9ea9-3cae3fb13775" />
@@ -20,9 +18,7 @@ I was able to find the answer "telnet" for this question.
 # Q3: What is the hostname?
 To find the hostname. I tried to connect the machine using the following command:
 
-"""
 telnet 172.20.13.127
-"""
 
 After that I used the "hostname" command.
 
