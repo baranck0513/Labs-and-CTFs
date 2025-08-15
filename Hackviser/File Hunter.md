@@ -26,7 +26,7 @@ After logging in, I used the "ls -la" command to list all the files in the serve
 
 Then I saw there is a file named "userlist"
 
-# Q4: Which users' information is in the file?
+# Q4: Which users' information is in the file?
 
 In order to read the information in that file. I downloaded that file into my own machine using:
 
