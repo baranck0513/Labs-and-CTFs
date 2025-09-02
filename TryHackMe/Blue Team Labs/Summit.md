@@ -6,3 +6,4 @@
 - Following the Pyramid of Pain's ascending priority of indicators, your objective is to increase the simulated adversaries' cost of operations and chase them away for good.
 - Each level of the pyramid allows you to detect and prevent various indicators of attack.
 
+# Q1: What is the first flag you receive after successfully detecting sample1.exe ?
